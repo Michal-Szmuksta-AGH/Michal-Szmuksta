@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TSP.hpp
+vector
+-
+numeric
+-
+ostream
+-
+tsp_setup.hpp
+../include/tsp_setup.hpp
+
+../include/tsp_setup.hpp
+limits
+-
+vector
+-
+
+C:/Users/micha/Desktop/Materialy do nauki/Studia 3 semestr/Zaawansowane programowanie obiektowe/cpp/Problem komiwojazera/main.cpp
+TSP.hpp
+C:/Users/micha/Desktop/Materialy do nauki/Studia 3 semestr/Zaawansowane programowanie obiektowe/cpp/Problem komiwojazera/TSP.hpp
+iostream
+-
+
