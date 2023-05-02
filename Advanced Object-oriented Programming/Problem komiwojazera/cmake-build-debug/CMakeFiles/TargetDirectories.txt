@@ -1,3 +1,0 @@
-C:/Users/micha/Desktop/Materialy do nauki/Studia 3 semestr/Zaawansowane programowanie obiektowe/cpp/Problem komiwojazera/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/micha/Desktop/Materialy do nauki/Studia 3 semestr/Zaawansowane programowanie obiektowe/cpp/Problem komiwojazera/cmake-build-debug/CMakeFiles/tsp.dir
-C:/Users/micha/Desktop/Materialy do nauki/Studia 3 semestr/Zaawansowane programowanie obiektowe/cpp/Problem komiwojazera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
